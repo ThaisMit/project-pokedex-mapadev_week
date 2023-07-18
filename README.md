@@ -4,10 +4,4 @@ One-week crash course where the coding of a project based on a pokedex was carri
 
 ---------------------------------
 
-HTML5, CSS3 and JavaScript.
-
-Responsive.
-
----------------------------------
-
 ### Here is the webpage link: <a href="https://thaismit.github.io/project-pokedex-mapadev_week/">Minha Pokédex</a>
